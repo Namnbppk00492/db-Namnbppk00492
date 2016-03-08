@@ -1,0 +1,11 @@
+Cafe đen^Ly^12000^^^^Cafe^8000
+Cafe Sữa^Ly^12000^^^^Cafe^8000
+Sinh tố dâu^Ly^14000^^^^Sinh tố^8000
+Sinh tố dứa^Ly^20000^^^^Sinh tố^12000
+Trà sữa bạc hà^Ly^20000^^^^Trà sữa^12000
+Trà sữa socola^Ly^25000^^^^Trà sữa^15000
+Sting^Lon^15000^^^^Giải khát^10000
+NumberOne^Lon^15000^^^^Giải khát^10000
+Kem Socola^Ly^30000^^^^Kem^15000
+Sinh tố carot^Ly^20000^^^^Sinh tố^12000
+Sâm dứa^Ly^18000^^^^Giải khát^12000

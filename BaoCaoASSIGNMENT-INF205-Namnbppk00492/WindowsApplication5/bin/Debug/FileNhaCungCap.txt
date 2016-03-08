@@ -1,0 +1,4 @@
+NCP001( Nước giải khát )^Số 30 Trần Nhật Duật^05003827123^nuocgiaikhat@yahoo.com
+NCP002 ( Cafe )^Số 145 Hoàng Hoa Thám^05003827345^Cafet@yahoo.com
+NCP003 ( Kem )^Hẻm 134 Lê Duẩn^05003456789^Kem@yahoo.com
+NCP005 ( Khăn giấy, hạt dưa )^Số 6 Phan Chu Trinh^05003827123^khangiay@yahoo.com.vn

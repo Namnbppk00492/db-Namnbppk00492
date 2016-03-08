@@ -1,0 +1,7 @@
+Phương Nam^900000^Ca sáng
+Trần hoa^900000^Ca trưa
+Hoàng Hoàng^1200000^Ca tối
+A Châu^1500000^Ca tối
+Tiều Phong^1000000^Ca sáng
+Hoàng An^1000000^Ca sáng
+Bá Nam^1000000^Ca trưa

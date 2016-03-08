@@ -1,0 +1,149 @@
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmDangnhap.resources
+c:\users\admin\documents\visual studio 2013\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\WindowsApplication5.frmMain.resources
+C:\Users\Admin\Desktop\Namnbppk00492_Lab 4\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Admin\Desktop\Namnbppk00492_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Admin\Desktop\Namnbppk00492_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Admin\Desktop\Namnbppk00492_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDangnhap.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmMain.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmuckhachhang.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucmathang.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoikhachhang.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoimathang.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucnhacungcap.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhacungcap.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmNhanvien.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhanvien.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmTinhluong.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmNguoidungvaphanquyen.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemnguoidung.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucbankhuvuc.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemban.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuchitien.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuthutien.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucPhieuthuchi.resources
+C:\Users\Admin\Desktop\Namnbppk00492_SOF1012_Lab 4\WindowsApplication5\obj\Debug\WindowsApplication5.frmCalamviec.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmCalamviec.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDangnhap.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucbankhuvuc.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmuckhachhang.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucmathang.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucnhacungcap.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucPhieuthuchi.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNguoidungvaphanquyen.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNhanvien.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuchitien.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuthutien.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemban.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoikhachhang.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmMain.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoimathang.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhacungcap.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhanvien.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemnguoidung.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmTinhluong.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmKiemsoatoder.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanhthu.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanuong.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmgiaodiendangnhap.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmXacnhanthanhtoan.resources
+C:\Users\Admin\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmHotro.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmCalamviec.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDangnhap.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucbankhuvuc.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmuckhachhang.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucmathang.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucnhacungcap.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucPhieuthuchi.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmgiaodiendangnhap.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmHotro.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmKiemsoatoder.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNguoidungvaphanquyen.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNhanvien.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuchitien.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuthutien.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemban.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoikhachhang.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmMain.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoimathang.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhacungcap.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhanvien.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemnguoidung.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanhthu.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanuong.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmTinhluong.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmXacnhanthanhtoan.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+D:\Bai tap\Lap trinh co ban\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe.config
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.exe
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.xml
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.pdb
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.exe
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.pdb
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\bin\Debug\WindowsApplication5.xml
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.vbprojResolveAssemblyReference.cache
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmCalamviec.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDangnhap.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucbankhuvuc.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmuckhachhang.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucmathang.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucnhacungcap.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmDanhmucPhieuthuchi.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmgiaodiendangnhap.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmHotro.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmKiemsoatoder.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNguoidungvaphanquyen.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmNhanvien.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuchitien.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmPhieuthutien.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemban.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoikhachhang.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmMain.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhacungcap.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemmoinhanvien.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThemnguoidung.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanhthu.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmThongkedoanuong.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmTinhluong.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmXacnhanthanhtoan.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.Resources.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.vbproj.GenerateResource.Cache
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmHoadon.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmChitiethoadon.resources
+C:\Users\PHUONGNAM\Desktop\BaoCaoASSIGNMENT-SOF1012-Namnbppk00492\WindowsApplication5\obj\Debug\WindowsApplication5.frmLoaisanpham.resources
